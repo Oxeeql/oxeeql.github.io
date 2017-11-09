@@ -9,9 +9,11 @@ layout: default
   {% endfor %}
 </ul>
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+
 
 [CS Calendar](calendar.md).
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
